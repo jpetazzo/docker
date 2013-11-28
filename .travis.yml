@@ -23,5 +23,6 @@ notifications:
     - jerome@docker.com
 
 env:
-  - secure: "n6kRDLJaWVmgEyJSs2cxFipzbUnQu4is3z+1If5QhEKiaP8+Md5HAO5TF+pCXwt+4g8/zjH390YZUt+v5ndoS1FyvnaY8e76dbi56hGZucueOFxJ+C9d1OqT2zodvpS9/DZYtyfnBrBqJCEAbCiB+OuCAwFRKINX/F0dDufkxk0="
-  - secure: "fw/MLhIljrejMUUjVFNTPDH0qQ04aDEWEAksxJMxWnNQIaRTCQH0i41CZp6RRTLll2eZ7p90R08oRtSFhM0AHZ95IQnZSEgUiRZUOWn7HZHgIy12CNHZvmodJkB8gnkh94vBDanl3vx45Tvpxfbx3gUyCdVjGYeY0b2GMooH2+w="
+  global:
+    - secure: "n6kRDLJaWVmgEyJSs2cxFipzbUnQu4is3z+1If5QhEKiaP8+Md5HAO5TF+pCXwt+4g8/zjH390YZUt+v5ndoS1FyvnaY8e76dbi56hGZucueOFxJ+C9d1OqT2zodvpS9/DZYtyfnBrBqJCEAbCiB+OuCAwFRKINX/F0dDufkxk0="
+    - secure: "fw/MLhIljrejMUUjVFNTPDH0qQ04aDEWEAksxJMxWnNQIaRTCQH0i41CZp6RRTLll2eZ7p90R08oRtSFhM0AHZ95IQnZSEgUiRZUOWn7HZHgIy12CNHZvmodJkB8gnkh94vBDanl3vx45Tvpxfbx3gUyCdVjGYeY0b2GMooH2+w="
