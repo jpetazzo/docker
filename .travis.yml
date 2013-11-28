@@ -1,5 +1,5 @@
 # Note: right now we don't use go-specific features of travis.
-# Later we might automate gofmt etc.
+# Later we might automate gofmt etc. (or do it inside the docker container...?)
 
 language: go
 
